@@ -1,4 +1,4 @@
 # dheeraj-pyasi
-this is  my portfolio website
+This Is  My Portfolio Website
 
 # <a href="https://dpit2024.github.io/dheeraj-pyasi/">Visit Site</a>
